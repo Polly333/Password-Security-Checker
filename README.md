@@ -19,3 +19,6 @@ Reference Links -
 2. https://haveibeenpwned.com/Passwords 
 
 
+To run type below command:
+
+streamlit run your_script.py
